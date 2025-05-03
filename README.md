@@ -1,2 +1,2 @@
 # Cozy-Home
-https://reykyt.github.io/Cozy-Home 
+https://polinadelfa.github.io/Cozy-Home/
